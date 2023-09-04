@@ -1,31 +1,21 @@
 {
   "movies": [
     {
-      "id": 1,
-      "title": "Quantum of Solace",
-      "year": 1981,
-      "rating": 5.8,
-      "director": "Alexa Baselli",
+      "title": "hossein salari",
+      "year": "2002",
+      "rating": "10",
+      "director": "salari",
       "genre": [
         {
-          "name": "Crime|Drama|Romance"
-        },
-        {
-          "name": "Drama"
-        },
-        {
-          "name": "Drama"
-        },
-        {
-          "name": "War|Western"
+          "name": "Adventure|Comedy|Drama|Romance"
         }
-      ]
+      ],
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Chain Letter",
-      "year": 1903,
-      "rating": 7.5,
+      "title": "Chain Letters",
+      "year": "8654",
+      "rating": "5.5",
       "director": "Mitchael Antill",
       "genre": [
         {
@@ -34,15 +24,23 @@
         {
           "name": "Adventure|Comedy|Drama|Romance"
         }
-      ]
+      ],
+      "id": 2
     },
     {
-      "id": 3,
       "title": "This Is Where I Leave You",
-      "year": 1950,
-      "rating": 8.6,
+      "year": "1000",
+      "rating": "1",
       "director": "Jess France",
-      "genre": null
+      "genre": [
+        {
+          "name": "test 2"
+        },
+        {
+          "name": "dram"
+        }
+      ],
+      "id": 3
     },
     {
       "id": 4,
@@ -95,7 +93,7 @@
       "id": 7,
       "title": "Stranger, The",
       "year": 1903,
-      "rating": 6.0,
+      "rating": 6,
       "director": "Jeffy Lemmertz",
       "genre": null
     },
@@ -227,7 +225,7 @@
       "id": 18,
       "title": "K-911",
       "year": 1937,
-      "rating": 8.0,
+      "rating": 8,
       "director": "Douglass Frichley",
       "genre": [
         {
@@ -295,7 +293,7 @@
       "id": 24,
       "title": "Attack Force Z (a.k.a. The Z Men) (Z-tzu te kung tui)",
       "year": 1975,
-      "rating": 6.0,
+      "rating": 6,
       "director": "Chen Belfrage",
       "genre": [
         {
@@ -554,7 +552,7 @@
       "id": 42,
       "title": "Buccaneer, The",
       "year": 1941,
-      "rating": 6.0,
+      "rating": 6,
       "director": "Clark Le Port",
       "genre": [
         {
@@ -767,7 +765,7 @@
       "id": 57,
       "title": "A Pistol For Ringo",
       "year": 2009,
-      "rating": 5.0,
+      "rating": 5,
       "director": "Erl Zuann",
       "genre": [
         {
@@ -815,7 +813,7 @@
       "id": 60,
       "title": "Kabluey",
       "year": 1910,
-      "rating": 5.0,
+      "rating": 5,
       "director": "Christi Bitcheno",
       "genre": [
         {
@@ -894,7 +892,7 @@
       "id": 66,
       "title": "Barrier (Bariera)",
       "year": 1908,
-      "rating": 3.0,
+      "rating": 3,
       "director": "Brandais Foran",
       "genre": [
         {
@@ -984,7 +982,7 @@
       "id": 73,
       "title": "300 Miles to Heaven (300 Mil do Nieba)",
       "year": 1908,
-      "rating": 7.0,
+      "rating": 7,
       "director": "Madge Thornthwaite",
       "genre": [
         {
@@ -1070,7 +1068,7 @@
       "id": 79,
       "title": "Solas",
       "year": 1916,
-      "rating": 10.0,
+      "rating": 10,
       "director": "Conan Devon",
       "genre": [
         {
@@ -1082,7 +1080,7 @@
       "id": 80,
       "title": "Jungle Fighters",
       "year": 1960,
-      "rating": 9.0,
+      "rating": 9,
       "director": "Lianna Jeeves",
       "genre": []
     },
@@ -1207,7 +1205,7 @@
       "id": 91,
       "title": "Another Cinderella Story",
       "year": 1958,
-      "rating": 2.0,
+      "rating": 2,
       "director": "Kristofor Isson",
       "genre": [
         {
@@ -1615,7 +1613,7 @@
       "id": 118,
       "title": "Chizuko's Younger Sister (Futari)",
       "year": 1944,
-      "rating": 9.0,
+      "rating": 9,
       "director": "Moise Paule",
       "genre": [
         {
@@ -1715,7 +1713,7 @@
       "id": 127,
       "title": "Across the Tracks",
       "year": 1967,
-      "rating": 9.0,
+      "rating": 9,
       "director": "Leona Robison",
       "genre": null
     },
@@ -1866,7 +1864,7 @@
       "id": 139,
       "title": "Date Movie",
       "year": 1929,
-      "rating": 2.0,
+      "rating": 2,
       "director": "Ema Abbett",
       "genre": [
         {
@@ -1887,7 +1885,7 @@
       "id": 140,
       "title": "Autism: The Musical",
       "year": 1945,
-      "rating": 10.0,
+      "rating": 10,
       "director": "Brandea Vidyapin",
       "genre": [
         {
@@ -2199,7 +2197,7 @@
       "id": 162,
       "title": "Towering Inferno, The",
       "year": 1954,
-      "rating": 5.0,
+      "rating": 5,
       "director": "Jerald Wade",
       "genre": null
     },
@@ -2207,7 +2205,7 @@
       "id": 163,
       "title": "Life Is Rosy (a.k.a. Life Is Beautiful) (Vie est belle, La)",
       "year": 1894,
-      "rating": 2.0,
+      "rating": 2,
       "director": "Jemima McTerlagh",
       "genre": []
     },
@@ -2215,7 +2213,7 @@
       "id": 164,
       "title": "Topper Returns",
       "year": 2006,
-      "rating": 5.0,
+      "rating": 5,
       "director": "Nickie Stygall",
       "genre": null
     },
@@ -2268,7 +2266,7 @@
       "id": 167,
       "title": "Die, Monster, Die!",
       "year": 1890,
-      "rating": 9.0,
+      "rating": 9,
       "director": "Petey Darree",
       "genre": [
         {
@@ -2522,7 +2520,7 @@
       "id": 186,
       "title": "Silver Chalice, The",
       "year": 1959,
-      "rating": 5.0,
+      "rating": 5,
       "director": "Viviene Underdown",
       "genre": [
         {
@@ -2886,7 +2884,7 @@
       "id": 209,
       "title": "Love",
       "year": 2010,
-      "rating": 1.0,
+      "rating": 1,
       "director": "Laurene Janeczek",
       "genre": [
         {
@@ -2958,7 +2956,7 @@
       "id": 213,
       "title": "Now, Voyager",
       "year": 1999,
-      "rating": 4.0,
+      "rating": 4,
       "director": "Maryellen Rivaland",
       "genre": [
         {
@@ -3082,7 +3080,7 @@
       "id": 220,
       "title": "Chipmunk Adventure, The",
       "year": 1938,
-      "rating": 1.0,
+      "rating": 1,
       "director": "Loralyn Adamini",
       "genre": [
         {
@@ -3250,7 +3248,7 @@
       "id": 232,
       "title": "Backcountry",
       "year": 1972,
-      "rating": 5.0,
+      "rating": 5,
       "director": "Louie Bartlam",
       "genre": null
     },
@@ -3388,7 +3386,7 @@
       "id": 242,
       "title": "Intruder in the Dust",
       "year": 1895,
-      "rating": 8.0,
+      "rating": 8,
       "director": "Austen Wackett",
       "genre": null
     },
@@ -3516,7 +3514,7 @@
       "id": 252,
       "title": "Legend of the Lone Ranger, The",
       "year": 2010,
-      "rating": 6.0,
+      "rating": 6,
       "director": "Ricky Andrault",
       "genre": null
     },
@@ -3625,7 +3623,7 @@
       "id": 261,
       "title": "Satan's Sword (Daibosatsu tôge)",
       "year": 1949,
-      "rating": 8.0,
+      "rating": 8,
       "director": "Whitaker Cutchey",
       "genre": [
         {
@@ -3842,7 +3840,7 @@
       "id": 276,
       "title": "Monster",
       "year": 1971,
-      "rating": 6.0,
+      "rating": 6,
       "director": "Alan Wilce",
       "genre": null
     },
@@ -3850,7 +3848,7 @@
       "id": 277,
       "title": "Mikra Anglia",
       "year": 1965,
-      "rating": 4.0,
+      "rating": 4,
       "director": "Allin Caves",
       "genre": []
     },
@@ -4006,7 +4004,7 @@
       "id": 288,
       "title": "Hobbit, The",
       "year": 1895,
-      "rating": 9.0,
+      "rating": 9,
       "director": "Omero Goodfield",
       "genre": [
         {
@@ -4123,7 +4121,7 @@
       "id": 298,
       "title": "Crossroads",
       "year": 1980,
-      "rating": 5.0,
+      "rating": 5,
       "director": "Eugenius Nason",
       "genre": [
         {
