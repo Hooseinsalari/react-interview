@@ -1,0 +1,4171 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Quantum of Solace",
+      "year": 1981,
+      "rating": 5.8,
+      "director": "Alexa Baselli",
+      "genre": [
+        {
+          "name": "Crime|Drama|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "War|Western"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Chain Letter",
+      "year": 1903,
+      "rating": 7.5,
+      "director": "Mitchael Antill",
+      "genre": [
+        {
+          "name": "Horror"
+        },
+        {
+          "name": "Adventure|Comedy|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "This Is Where I Leave You",
+      "year": 1950,
+      "rating": 8.6,
+      "director": "Jess France",
+      "genre": null
+    },
+    {
+      "id": 4,
+      "title": "State Property 2",
+      "year": 1985,
+      "rating": 3.9,
+      "director": "Minta Pantridge",
+      "genre": []
+    },
+    {
+      "id": 5,
+      "title": "Naked",
+      "year": 1998,
+      "rating": 9.6,
+      "director": "Ozzy Ashleigh",
+      "genre": [
+        {
+          "name": "Drama|Film-Noir|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Mystery"
+        },
+        {
+          "name": "Action|Comedy|Crime|Thriller"
+        },
+        {
+          "name": "Action|Thriller|Western"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "True Stories",
+      "year": 2001,
+      "rating": 8.3,
+      "director": "Giselbert Kither",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Action|Comedy|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Stranger, The",
+      "year": 1903,
+      "rating": 6.0,
+      "director": "Jeffy Lemmertz",
+      "genre": null
+    },
+    {
+      "id": 8,
+      "title": "Shaolin Wooden Men (Shao Lin mu ren xiang)",
+      "year": 1910,
+      "rating": 5.7,
+      "director": "Allie Gyorffy",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Drama|Horror|Romance"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Public Enemy, The",
+      "year": 1894,
+      "rating": 1.9,
+      "director": "Ivory Greenroad",
+      "genre": []
+    },
+    {
+      "id": 10,
+      "title": "F/X",
+      "year": 1985,
+      "rating": 1.1,
+      "director": "Baryram Tankard",
+      "genre": [
+        {
+          "name": "Action|Comedy|Sci-Fi"
+        },
+        {
+          "name": "Comedy|Drama|Fantasy|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Apple Dumpling Gang Rides Again, The",
+      "year": 1890,
+      "rating": 5.4,
+      "director": "Benson Marden",
+      "genre": null
+    },
+    {
+      "id": 12,
+      "title": "Getaway, The",
+      "year": 1985,
+      "rating": 1.5,
+      "director": "Isador Arno",
+      "genre": null
+    },
+    {
+      "id": 13,
+      "title": "Sherlock Holmes: The Woman in Green",
+      "year": 1891,
+      "rating": 8.1,
+      "director": "Xena Tiebe",
+      "genre": [
+        {
+          "name": "Comedy|Horror"
+        },
+        {
+          "name": "Horror|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2002,
+      "rating": 8.7,
+      "director": "Kora Buffin",
+      "genre": null
+    },
+    {
+      "id": 15,
+      "title": "Lymelife",
+      "year": 1894,
+      "rating": 3.6,
+      "director": "Wyn Hamberston",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Action|Drama|War"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Gold Diggers of 1935",
+      "year": 2001,
+      "rating": 2.7,
+      "director": "Carly Coslett",
+      "genre": null
+    },
+    {
+      "id": 17,
+      "title": "Return of the Street Fighter (Satsujin ken 2)",
+      "year": 1995,
+      "rating": 2.6,
+      "director": "Hayyim Mynett",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "K-911",
+      "year": 1937,
+      "rating": 8.0,
+      "director": "Douglass Frichley",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Fantasy|Mystery"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "5 Dolls for an August Moon (5 bambole per la luna d'agosto)",
+      "year": 2009,
+      "rating": 2.1,
+      "director": "Ethyl Lidyard",
+      "genre": null
+    },
+    {
+      "id": 20,
+      "title": "Terror is a Man",
+      "year": 1990,
+      "rating": 8.9,
+      "director": "Morley Reinmar",
+      "genre": []
+    },
+    {
+      "id": 21,
+      "title": "Pineapple Express",
+      "year": 1914,
+      "rating": 5.2,
+      "director": "Derk Holcroft",
+      "genre": null
+    },
+    {
+      "id": 22,
+      "title": "Armour of God II: Operation Condor (Operation Condor) (Fei ying gai wak)",
+      "year": 1992,
+      "rating": 5.6,
+      "director": "Cara Burgwin",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Crime|Drama|Thriller"
+        },
+        {
+          "name": "Action"
+        },
+        {
+          "name": "Crime|Sci-Fi|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Trouble with Angels, The",
+      "year": 1916,
+      "rating": 1.5,
+      "director": "Gwenni Witherup",
+      "genre": null
+    },
+    {
+      "id": 24,
+      "title": "Attack Force Z (a.k.a. The Z Men) (Z-tzu te kung tui)",
+      "year": 1975,
+      "rating": 6.0,
+      "director": "Chen Belfrage",
+      "genre": [
+        {
+          "name": "Action|Adventure|Children|Comedy|Fantasy|Sci-Fi"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Musical|Western"
+        },
+        {
+          "name": "Romance"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Employee of the Month",
+      "year": 2008,
+      "rating": 6.6,
+      "director": "Yasmeen Abells",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Crime|Drama|Mystery|Romance|Thriller"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Mishen (Target)",
+      "year": 2003,
+      "rating": 7.1,
+      "director": "Eden Parmer",
+      "genre": [
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Crime|Drama"
+        },
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Land of the Blind",
+      "year": 1923,
+      "rating": 2.8,
+      "director": "Danyette McCurtin",
+      "genre": null
+    },
+    {
+      "id": 28,
+      "title": "Torments (El) (This Strange Passion)",
+      "year": 1911,
+      "rating": 3.4,
+      "director": "Ellene Origin",
+      "genre": [
+        {
+          "name": "Comedy|Musical"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "King David",
+      "year": 2023,
+      "rating": 5.2,
+      "director": "Alexandro Wike",
+      "genre": [
+        {
+          "name": "Adventure|Comedy|Crime|Thriller"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama|Mystery|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Other Side of Bollywood, The",
+      "year": 2019,
+      "rating": 8.4,
+      "director": "Kaitlyn Goldring",
+      "genre": null
+    },
+    {
+      "id": 31,
+      "title": "Die Fischerin",
+      "year": 1910,
+      "rating": 2.8,
+      "director": "Blair Iceton",
+      "genre": [
+        {
+          "name": "Drama|Musical"
+        },
+        {
+          "name": "Children|Fantasy|Sci-Fi"
+        },
+        {
+          "name": "Crime|Drama"
+        },
+        {
+          "name": "Comedy|Horror|Romance"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Godzilla 2000 (Gojira ni-sen mireniamu)",
+      "year": 1922,
+      "rating": 3.2,
+      "director": "Daveen Davey",
+      "genre": [
+        {
+          "name": "Action|Adventure|Drama"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Lord of Illusions",
+      "year": 1937,
+      "rating": 2.6,
+      "director": "Orly Roches",
+      "genre": null
+    },
+    {
+      "id": 34,
+      "title": "Never Again",
+      "year": 2016,
+      "rating": 2.4,
+      "director": "Hartley Josephsen",
+      "genre": null
+    },
+    {
+      "id": 35,
+      "title": "Crazy in Alabama",
+      "year": 1916,
+      "rating": 9.7,
+      "director": "Ariel Gingle",
+      "genre": [
+        {
+          "name": "Action|Fantasy|Horror|Thriller"
+        },
+        {
+          "name": "Crime|Drama"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Singham",
+      "year": 2013,
+      "rating": 7.3,
+      "director": "Padriac McLice",
+      "genre": []
+    },
+    {
+      "id": 37,
+      "title": "Death in Buenos Aires (Muerte en Buenos Aires)",
+      "year": 1899,
+      "rating": 2.8,
+      "director": "Kathie Mitchel",
+      "genre": [
+        {
+          "name": "Crime|Drama|Mystery"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Sugarbaby",
+      "year": 1952,
+      "rating": 7.9,
+      "director": "Chane Van den Hof",
+      "genre": [
+        {
+          "name": "Action|Comedy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "French Fried Vacation 2 (Les bronzés font du ski)",
+      "year": 2022,
+      "rating": 2.2,
+      "director": "Leelah McKew",
+      "genre": [
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Action|Drama|War"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Action|Comedy"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Luther the Geek",
+      "year": 1919,
+      "rating": 8.3,
+      "director": "Kara Brasted",
+      "genre": [
+        {
+          "name": "Drama|Western"
+        },
+        {
+          "name": "Action|Drama|War"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Noam Chomsky: Distorted Morality",
+      "year": 1894,
+      "rating": 7.3,
+      "director": "Ferne Singleton",
+      "genre": [
+        {
+          "name": "(no genres listed)"
+        },
+        {
+          "name": "Comedy|Musical|Romance|Western"
+        },
+        {
+          "name": "Crime|Drama|Mystery|Romance"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Buccaneer, The",
+      "year": 1941,
+      "rating": 6.0,
+      "director": "Clark Le Port",
+      "genre": [
+        {
+          "name": "(no genres listed)"
+        },
+        {
+          "name": "Action|Adventure|Sci-Fi|Thriller"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Letter to Elia, A",
+      "year": 1916,
+      "rating": 9.1,
+      "director": "Penelopa Chesser",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Action|Adventure"
+        },
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Sympathy for the Devil",
+      "year": 1978,
+      "rating": 3.6,
+      "director": "Reyna Harm",
+      "genre": [
+        {
+          "name": "Animation|Children"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Cutter's Way",
+      "year": 2001,
+      "rating": 8.3,
+      "director": "Conrado Panyer",
+      "genre": null
+    },
+    {
+      "id": 46,
+      "title": "Forks Over Knives",
+      "year": 1961,
+      "rating": 9.7,
+      "director": "Francoise Grills",
+      "genre": null
+    },
+    {
+      "id": 47,
+      "title": "Talking Funny",
+      "year": 2009,
+      "rating": 5.7,
+      "director": "Rosene Barnard",
+      "genre": null
+    },
+    {
+      "id": 48,
+      "title": "Dragon Ball: Mystical Adventure (Doragon bôru: Makafushigi dai bôken)",
+      "year": 1945,
+      "rating": 4.5,
+      "director": "Harlan Stork",
+      "genre": [
+        {
+          "name": "Children|Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Documentary|Drama|Musical"
+        },
+        {
+          "name": "Drama|Mystery"
+        },
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Diary of a Wimpy Kid: Dog Days",
+      "year": 1974,
+      "rating": 3.1,
+      "director": "Yvor Matus",
+      "genre": null
+    },
+    {
+      "id": 50,
+      "title": "The Golden Voyage of Sinbad",
+      "year": 1986,
+      "rating": 2.1,
+      "director": "Paige Arnao",
+      "genre": null
+    },
+    {
+      "id": 51,
+      "title": "White Hunter, Black Heart",
+      "year": 1966,
+      "rating": 8.9,
+      "director": "Joseito Ship",
+      "genre": [
+        {
+          "name": "Children|Drama"
+        },
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Olsen Gang, The (Olsen-Banden)",
+      "year": 1921,
+      "rating": 9.3,
+      "director": "Krishna Minto",
+      "genre": [
+        {
+          "name": "Action|Crime|Drama"
+        },
+        {
+          "name": "Action|Crime|Drama"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Action|Romance|Western"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Berserk",
+      "year": 1996,
+      "rating": 7.9,
+      "director": "Taffy Colten",
+      "genre": [
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Evangelion: 2.0 You Can (Not) Advance (Evangerion shin gekijôban: Ha)",
+      "year": 1894,
+      "rating": 8.9,
+      "director": "Jojo Le Galle",
+      "genre": []
+    },
+    {
+      "id": 55,
+      "title": "Empire of the Wolves (L'empire des loups)",
+      "year": 1913,
+      "rating": 6.3,
+      "director": "Lynsey Radolf",
+      "genre": [
+        {
+          "name": "Comedy|Crime"
+        },
+        {
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Thampu",
+      "year": 2022,
+      "rating": 8.6,
+      "director": "Elfrieda Cotton",
+      "genre": [
+        {
+          "name": "Action|Mystery|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "A Pistol For Ringo",
+      "year": 2009,
+      "rating": 5.0,
+      "director": "Erl Zuann",
+      "genre": [
+        {
+          "name": "Action|Adventure|Children|Drama"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Love Sick (Legaturi bolnavicioase)",
+      "year": 1998,
+      "rating": 9.7,
+      "director": "Nathalia Philippson",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Accattone",
+      "year": 1985,
+      "rating": 9.6,
+      "director": "Walden Niave",
+      "genre": [
+        {
+          "name": "Crime"
+        },
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Action|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Kabluey",
+      "year": 1910,
+      "rating": 5.0,
+      "director": "Christi Bitcheno",
+      "genre": [
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Flight of the Living Dead",
+      "year": 1903,
+      "rating": 3.5,
+      "director": "Britt Kerkham",
+      "genre": null
+    },
+    {
+      "id": 62,
+      "title": "Charlie Chan's Greatest Case",
+      "year": 1983,
+      "rating": 1.5,
+      "director": "Fletcher Bigrigg",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Romance"
+        },
+        {
+          "name": "Crime|Drama|Mystery"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Outside Satan (Hors Satan)",
+      "year": 1988,
+      "rating": 9.5,
+      "director": "Jayne de'-Ancy Willis",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Horror|Thriller"
+        },
+        {
+          "name": "Animation|Crime|Drama"
+        },
+        {
+          "name": "Action|Comedy"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Thunderbird Six",
+      "year": 1898,
+      "rating": 8.1,
+      "director": "Gaynor Secretan",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Beginning of an Unknown Era (Nachalo nevedomogo veka)",
+      "year": 1987,
+      "rating": 2.6,
+      "director": "Yancy Farnworth",
+      "genre": null
+    },
+    {
+      "id": 66,
+      "title": "Barrier (Bariera)",
+      "year": 1908,
+      "rating": 3.0,
+      "director": "Brandais Foran",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Romance|War"
+        },
+        {
+          "name": "Action|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Down in the Valley",
+      "year": 1926,
+      "rating": 6.4,
+      "director": "Mauricio Simka",
+      "genre": [
+        {
+          "name": "Action|Crime|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "388 Arletta Avenue",
+      "year": 1921,
+      "rating": 6.7,
+      "director": "Wendeline Mitchard",
+      "genre": [
+        {
+          "name": "Action|Comedy"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Dollman vs. Demonic Toys",
+      "year": 1921,
+      "rating": 8.2,
+      "director": "Alena Lynd",
+      "genre": []
+    },
+    {
+      "id": 70,
+      "title": "Black Dahlia, The",
+      "year": 1992,
+      "rating": 4.2,
+      "director": "Vassili Purkiss",
+      "genre": [
+        {
+          "name": "Children|Comedy"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Comedy|Fantasy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Trances",
+      "year": 1892,
+      "rating": 9.8,
+      "director": "Ruthie Slimon",
+      "genre": null
+    },
+    {
+      "id": 72,
+      "title": "I Am a Sex Addict",
+      "year": 1974,
+      "rating": 2.1,
+      "director": "Tammara Nast",
+      "genre": null
+    },
+    {
+      "id": 73,
+      "title": "300 Miles to Heaven (300 Mil do Nieba)",
+      "year": 1908,
+      "rating": 7.0,
+      "director": "Madge Thornthwaite",
+      "genre": [
+        {
+          "name": "Action|Comedy"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Persuasion",
+      "year": 1943,
+      "rating": 9.9,
+      "director": "Simeon D'Aguanno",
+      "genre": [
+        {
+          "name": "Crime|Drama|Horror|Thriller"
+        },
+        {
+          "name": "Children|Comedy"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Desperate Living",
+      "year": 2023,
+      "rating": 4.5,
+      "director": "Dinnie Cottrell",
+      "genre": [
+        {
+          "name": "Comedy|Crime"
+        },
+        {
+          "name": "Action|Crime|Mystery|Sci-Fi|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Hi-Yo Silver",
+      "year": 2005,
+      "rating": 9.9,
+      "director": "Jeane Groombridge",
+      "genre": [
+        {
+          "name": "Drama|War"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Action|Adventure"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Vera Drake",
+      "year": 1925,
+      "rating": 5.7,
+      "director": "Jaquith Trood",
+      "genre": [
+        {
+          "name": "Western"
+        },
+        {
+          "name": "Comedy|Horror"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Buddy Buddy",
+      "year": 1965,
+      "rating": 6.6,
+      "director": "Merell Heibl",
+      "genre": null
+    },
+    {
+      "id": 79,
+      "title": "Solas",
+      "year": 1916,
+      "rating": 10.0,
+      "director": "Conan Devon",
+      "genre": [
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Jungle Fighters",
+      "year": 1960,
+      "rating": 9.0,
+      "director": "Lianna Jeeves",
+      "genre": []
+    },
+    {
+      "id": 81,
+      "title": "Queen of Spades, The",
+      "year": 1930,
+      "rating": 3.4,
+      "director": "Tod Marney",
+      "genre": [
+        {
+          "name": "Action|Horror|Sci-Fi"
+        },
+        {
+          "name": "Crime"
+        },
+        {
+          "name": "Comedy|Documentary"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Condo Painting",
+      "year": 1950,
+      "rating": 9.9,
+      "director": "Adelheid Quinet",
+      "genre": null
+    },
+    {
+      "id": 83,
+      "title": "Flawless",
+      "year": 2018,
+      "rating": 1.5,
+      "director": "Lewes Ternault",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Action|War"
+        },
+        {
+          "name": "Animation|Musical"
+        },
+        {
+          "name": "Thriller"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Rules of Attraction, The",
+      "year": 1929,
+      "rating": 7.8,
+      "director": "Marnie Vanyatin",
+      "genre": null
+    },
+    {
+      "id": 85,
+      "title": "American Madness",
+      "year": 1931,
+      "rating": 4.4,
+      "director": "Davy Bourtoumieux",
+      "genre": [
+        {
+          "name": "Horror|Mystery|Thriller"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "New Wave, A",
+      "year": 1907,
+      "rating": 1.8,
+      "director": "Jacques Stannas",
+      "genre": null
+    },
+    {
+      "id": 87,
+      "title": "Wild Hearts Can't Be Broken",
+      "year": 1895,
+      "rating": 2.3,
+      "director": "Maddy Tunnacliffe",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Horror"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Time and Tide (Seunlau Ngaklau)",
+      "year": 2000,
+      "rating": 5.1,
+      "director": "Huntington Hurnell",
+      "genre": null
+    },
+    {
+      "id": 89,
+      "title": "Tarnation",
+      "year": 1950,
+      "rating": 8.9,
+      "director": "Jerrome O'Luney",
+      "genre": null
+    },
+    {
+      "id": 90,
+      "title": "Battle of Britain",
+      "year": 1968,
+      "rating": 1.1,
+      "director": "Edith Gillbee",
+      "genre": null
+    },
+    {
+      "id": 91,
+      "title": "Another Cinderella Story",
+      "year": 1958,
+      "rating": 2.0,
+      "director": "Kristofor Isson",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Sci-Fi|Thriller"
+        },
+        {
+          "name": "Animation"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "The Fox and the Hound 2",
+      "year": 1893,
+      "rating": 8.6,
+      "director": "Jordain Fedder",
+      "genre": [
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "The Great Northfield Minnesota Raid",
+      "year": 1992,
+      "rating": 3.4,
+      "director": "Winston Spearing",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Horror|Thriller"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Romance"
+        },
+        {
+          "name": "Action|Comedy|Crime"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Angels in the Outfield",
+      "year": 1912,
+      "rating": 5.2,
+      "director": "Ilyse Durtnel",
+      "genre": []
+    },
+    {
+      "id": 95,
+      "title": "Dane Cook: Vicious Circle",
+      "year": 1899,
+      "rating": 3.8,
+      "director": "Dari Kieran",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Musical|Romance"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Friday After Next",
+      "year": 2004,
+      "rating": 4.4,
+      "director": "Elwyn Arnely",
+      "genre": []
+    },
+    {
+      "id": 97,
+      "title": "Look, Up in the Sky! The Amazing Story of Superman",
+      "year": 1961,
+      "rating": 1.7,
+      "director": "Cross Jelley",
+      "genre": [
+        {
+          "name": "Action|Horror|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Full Moon in Paris (Les nuits de la pleine lune)",
+      "year": 1916,
+      "rating": 2.4,
+      "director": "Paolo Garnar",
+      "genre": []
+    },
+    {
+      "id": 99,
+      "title": "Film ist. 7-12",
+      "year": 1932,
+      "rating": 4.9,
+      "director": "Mendy Minihane",
+      "genre": [
+        {
+          "name": "Comedy|Horror"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Street Trash",
+      "year": 2014,
+      "rating": 1.2,
+      "director": "Anita Bedson",
+      "genre": null
+    },
+    {
+      "id": 101,
+      "title": "Heavy Metal Parking Lot",
+      "year": 1984,
+      "rating": 3.3,
+      "director": "Dyana Sharpus",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Horror|Musical"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Cutter's Way",
+      "year": 1963,
+      "rating": 5.3,
+      "director": "Marla Ronchi",
+      "genre": []
+    },
+    {
+      "id": 103,
+      "title": "Heading South (Vers le sud)",
+      "year": 2002,
+      "rating": 8.7,
+      "director": "Arney Sword",
+      "genre": [
+        {
+          "name": "Adventure|Drama"
+        },
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Drama|Horror|Mystery|Romance|Thriller"
+        },
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Makioka Sisters, The (Sasame-yuki)",
+      "year": 1915,
+      "rating": 2.8,
+      "director": "Jojo Swanborrow",
+      "genre": []
+    },
+    {
+      "id": 105,
+      "title": "Apartment 4E ",
+      "year": 1943,
+      "rating": 5.5,
+      "director": "Nolly Bellin",
+      "genre": null
+    },
+    {
+      "id": 106,
+      "title": "Ciao, Professore! (Io speriamo che me la cavo)",
+      "year": 1943,
+      "rating": 9.7,
+      "director": "Tamar Daftor",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "All the President's Men",
+      "year": 2000,
+      "rating": 5.6,
+      "director": "Harcourt Jorn",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Cirque du Soleil: Worlds Away",
+      "year": 1950,
+      "rating": 2.2,
+      "director": "Bethina Gumbrell",
+      "genre": [
+        {
+          "name": "Crime|Drama|Thriller"
+        },
+        {
+          "name": "Drama|Thriller"
+        },
+        {
+          "name": "Comedy|Musical"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Cube",
+      "year": 2021,
+      "rating": 5.7,
+      "director": "Sashenka Hampstead",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy|Crime|Mystery"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Hoop Realities",
+      "year": 2016,
+      "rating": 1.4,
+      "director": "Ashlan Chipping",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Horror|Thriller"
+        },
+        {
+          "name": "Adventure|Mystery"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "It's a Boy Girl Thing",
+      "year": 1977,
+      "rating": 9.3,
+      "director": "Marys Grooby",
+      "genre": []
+    },
+    {
+      "id": 112,
+      "title": "Bad Boys",
+      "year": 1956,
+      "rating": 7.1,
+      "director": "Penrod Tallis",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Crime|Drama|Film-Noir|Mystery"
+        },
+        {
+          "name": "Animation|Children|Comedy"
+        },
+        {
+          "name": "Action|Comedy|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Third Man, The",
+      "year": 1909,
+      "rating": 2.9,
+      "director": "Loutitia Probin",
+      "genre": [
+        {
+          "name": "Action|Adventure|Fantasy|Sci-Fi"
+        },
+        {
+          "name": "Action|Children|Comedy"
+        },
+        {
+          "name": "Fantasy|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Drama|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Fern flowers (Fleur de fougère)",
+      "year": 1923,
+      "rating": 4.9,
+      "director": "Selma Lennarde",
+      "genre": [
+        {
+          "name": "Drama|Horror|Mystery|Thriller|War"
+        },
+        {
+          "name": "Action|Crime|Drama|Thriller"
+        },
+        {
+          "name": "Drama|Mystery"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Messenger, The",
+      "year": 1954,
+      "rating": 3.9,
+      "director": "Rriocard Reightley",
+      "genre": [
+        {
+          "name": "Action|Horror|Sci-Fi"
+        },
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Adventure|Comedy|Crime|Mystery|Thriller"
+        },
+        {
+          "name": "Drama|Fantasy"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Mostly Unfabulous Social Life of Ethan Green, The",
+      "year": 1968,
+      "rating": 2.3,
+      "director": "Lucio Human",
+      "genre": [
+        {
+          "name": "Animation|Children|Drama|Musical"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Imposter, The",
+      "year": 2017,
+      "rating": 3.9,
+      "director": "Alyssa Peak",
+      "genre": null
+    },
+    {
+      "id": 118,
+      "title": "Chizuko's Younger Sister (Futari)",
+      "year": 1944,
+      "rating": 9.0,
+      "director": "Moise Paule",
+      "genre": [
+        {
+          "name": "Action|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Return of the Killer Tomatoes!",
+      "year": 1891,
+      "rating": 4.1,
+      "director": "Cody Morford",
+      "genre": []
+    },
+    {
+      "id": 120,
+      "title": "Il piccolo diavolo",
+      "year": 1947,
+      "rating": 3.8,
+      "director": "Moshe Twohig",
+      "genre": null
+    },
+    {
+      "id": 121,
+      "title": "Talk of Angels",
+      "year": 2010,
+      "rating": 2.6,
+      "director": "Amelita Pepler",
+      "genre": [
+        {
+          "name": "Action|Adventure"
+        },
+        {
+          "name": "Drama|Thriller"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Reform School Girls",
+      "year": 1970,
+      "rating": 5.4,
+      "director": "Harlen Theaker",
+      "genre": null
+    },
+    {
+      "id": 123,
+      "title": "Maid of Salem",
+      "year": 1953,
+      "rating": 4.7,
+      "director": "Gard Aberkirdo",
+      "genre": null
+    },
+    {
+      "id": 124,
+      "title": "Psycho",
+      "year": 1892,
+      "rating": 5.5,
+      "director": "Gratiana Keelinge",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Crime|Drama"
+        },
+        {
+          "name": "Action|Drama|War"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Muzi v nadeji",
+      "year": 1905,
+      "rating": 1.4,
+      "director": "Glynnis Penk",
+      "genre": []
+    },
+    {
+      "id": 126,
+      "title": "Beyond Outrage",
+      "year": 1925,
+      "rating": 7.2,
+      "director": "Marion Hallitt",
+      "genre": [
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Across the Tracks",
+      "year": 1967,
+      "rating": 9.0,
+      "director": "Leona Robison",
+      "genre": null
+    },
+    {
+      "id": 128,
+      "title": "Black Narcissus",
+      "year": 1935,
+      "rating": 5.9,
+      "director": "Carlin Whitlaw",
+      "genre": [
+        {
+          "name": "Action|Horror"
+        },
+        {
+          "name": "Comedy|Crime"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "title": "Exiled (Fong juk)",
+      "year": 1945,
+      "rating": 3.5,
+      "director": "Fleurette Twamley",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "title": "Girls! Girls! Girls!",
+      "year": 1992,
+      "rating": 2.6,
+      "director": "Daisy Hargess",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Romance"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "title": "Pretty One, The",
+      "year": 1989,
+      "rating": 1.4,
+      "director": "Natalie Cyson",
+      "genre": null
+    },
+    {
+      "id": 132,
+      "title": "Gridlock'd",
+      "year": 1922,
+      "rating": 5.9,
+      "director": "Koo Sharrard",
+      "genre": null
+    },
+    {
+      "id": 133,
+      "title": "Vampire in Brooklyn",
+      "year": 1924,
+      "rating": 1.6,
+      "director": "Donovan Geraldi",
+      "genre": [
+        {
+          "name": "Comedy|Musical|Romance"
+        },
+        {
+          "name": "Drama|Musical"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "title": "Joe the King",
+      "year": 1933,
+      "rating": 8.1,
+      "director": "Lesya Le Fevre",
+      "genre": [
+        {
+          "name": "Action|Adventure|Animation|Comedy|Fantasy|Mystery|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Child of Rage",
+      "year": 1937,
+      "rating": 3.5,
+      "director": "Ambur Fetterplace",
+      "genre": null
+    },
+    {
+      "id": 136,
+      "title": "Witchfinder General (Conquerer Worm, The)",
+      "year": 2005,
+      "rating": 4.7,
+      "director": "Ronnie MacArthur",
+      "genre": [
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "title": "Method to the Madness of Jerry Lewis",
+      "year": 2009,
+      "rating": 5.4,
+      "director": "Mortimer Pepper",
+      "genre": null
+    },
+    {
+      "id": 138,
+      "title": "Don't Go Near the Water",
+      "year": 1925,
+      "rating": 5.4,
+      "director": "Juieta Benedidick",
+      "genre": [
+        {
+          "name": "Animation|Children|Comedy"
+        },
+        {
+          "name": "Action|Comedy|Horror"
+        },
+        {
+          "name": "Documentary|Drama|War"
+        },
+        {
+          "name": "Fantasy|Musical|Romance"
+        },
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "title": "Date Movie",
+      "year": 1929,
+      "rating": 2.0,
+      "director": "Ema Abbett",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama|War"
+        },
+        {
+          "name": "Children|Comedy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "title": "Autism: The Musical",
+      "year": 1945,
+      "rating": 10.0,
+      "director": "Brandea Vidyapin",
+      "genre": [
+        {
+          "name": "Horror"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "title": "Zigeunerweisen (Tsigoineruwaizen)",
+      "year": 1972,
+      "rating": 9.8,
+      "director": "Rodd Szach",
+      "genre": [
+        {
+          "name": "Action|Comedy"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "title": "Red Firecracker, Green Firecracker (Pao Da Shuang Deng)",
+      "year": 1932,
+      "rating": 9.6,
+      "director": "Koralle Bunstone",
+      "genre": null
+    },
+    {
+      "id": 143,
+      "title": "Winter Nomads",
+      "year": 1967,
+      "rating": 2.3,
+      "director": "Eldin Bourges",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Action"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "title": "Young Man with a Horn",
+      "year": 2022,
+      "rating": 1.2,
+      "director": "Naoma Donegan",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Comedy|Musical|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Romance|Western"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Raid on Rommel",
+      "year": 2002,
+      "rating": 6.7,
+      "director": "Junette Peyto",
+      "genre": [
+        {
+          "name": "Action|Drama|Thriller"
+        },
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Drama|Sci-Fi"
+        },
+        {
+          "name": "Adventure|Children|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "title": "Kal Ho Naa Ho",
+      "year": 1971,
+      "rating": 4.4,
+      "director": "Alexandre Larchiere",
+      "genre": []
+    },
+    {
+      "id": 147,
+      "title": "Matter of Taste, A (Affaire de Goût, Une)",
+      "year": 2001,
+      "rating": 6.2,
+      "director": "Vladimir Kidstone",
+      "genre": null
+    },
+    {
+      "id": 148,
+      "title": "Rat Race",
+      "year": 1890,
+      "rating": 7.1,
+      "director": "Hetti Crinkley",
+      "genre": [
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|War"
+        },
+        {
+          "name": "Crime|Drama|Film-Noir"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "title": "How Bruce Lee Changed the World",
+      "year": 1986,
+      "rating": 6.8,
+      "director": "Carolyn Earney",
+      "genre": null
+    },
+    {
+      "id": 150,
+      "title": "Des roses en hiver",
+      "year": 1957,
+      "rating": 1.1,
+      "director": "Jenna Okenden",
+      "genre": [
+        {
+          "name": "Crime|Drama|Thriller"
+        },
+        {
+          "name": "Comedy|Musical"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "title": "Inuyasha the Movie: The Castle Beyond the Looking Glass",
+      "year": 1991,
+      "rating": 2.5,
+      "director": "Emery Gligori",
+      "genre": [
+        {
+          "name": "Mystery|Thriller"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "title": "Out of the Ashes",
+      "year": 1978,
+      "rating": 5.8,
+      "director": "Cathy Verrell",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Film-Noir"
+        },
+        {
+          "name": "Horror|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "title": "Winnetou: The Last Shot",
+      "year": 1984,
+      "rating": 5.2,
+      "director": "Larine Hedworth",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Action|Adventure|Drama|Romance|Western"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "title": "Hearts in Atlantis",
+      "year": 1960,
+      "rating": 6.4,
+      "director": "Shawnee Bettley",
+      "genre": null
+    },
+    {
+      "id": 155,
+      "title": "Home",
+      "year": 1932,
+      "rating": 4.7,
+      "director": "Glynnis Onraet",
+      "genre": []
+    },
+    {
+      "id": 156,
+      "title": "Judge and the Assassin, The (Juge et l'assassin, Le)",
+      "year": 1980,
+      "rating": 5.5,
+      "director": "Selia Gainsburgh",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "title": "*batteries not included",
+      "year": 1975,
+      "rating": 8.9,
+      "director": "Erie Prowting",
+      "genre": []
+    },
+    {
+      "id": 158,
+      "title": "Andre",
+      "year": 1906,
+      "rating": 4.2,
+      "director": "Marcellus Lozano",
+      "genre": []
+    },
+    {
+      "id": 159,
+      "title": "Opposing Force",
+      "year": 1933,
+      "rating": 7.4,
+      "director": "Sayer Rizzone",
+      "genre": null
+    },
+    {
+      "id": 160,
+      "title": "Cinema Komunisto",
+      "year": 2015,
+      "rating": 7.8,
+      "director": "Alexandra Ibbitt",
+      "genre": [
+        {
+          "name": "Thriller"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Outpost: Black Sun",
+      "year": 1992,
+      "rating": 8.6,
+      "director": "Emmit Harrow",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Drama|Fantasy|Musical"
+        },
+        {
+          "name": "Adventure|Comedy|Musical|Romance|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "title": "Towering Inferno, The",
+      "year": 1954,
+      "rating": 5.0,
+      "director": "Jerald Wade",
+      "genre": null
+    },
+    {
+      "id": 163,
+      "title": "Life Is Rosy (a.k.a. Life Is Beautiful) (Vie est belle, La)",
+      "year": 1894,
+      "rating": 2.0,
+      "director": "Jemima McTerlagh",
+      "genre": []
+    },
+    {
+      "id": 164,
+      "title": "Topper Returns",
+      "year": 2006,
+      "rating": 5.0,
+      "director": "Nickie Stygall",
+      "genre": null
+    },
+    {
+      "id": 165,
+      "title": "Drogówka",
+      "year": 1898,
+      "rating": 2.7,
+      "director": "Averil Paulat",
+      "genre": [
+        {
+          "name": "Fantasy|Western"
+        },
+        {
+          "name": "Sci-Fi"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Action|Western"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Liberty",
+      "year": 1955,
+      "rating": 4.1,
+      "director": "Antony Trobridge",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Drama|Musical|Romance"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "title": "Die, Monster, Die!",
+      "year": 1890,
+      "rating": 9.0,
+      "director": "Petey Darree",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy|Sci-Fi"
+        },
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "title": "Looking for Richard",
+      "year": 2014,
+      "rating": 5.5,
+      "director": "Lil Vella",
+      "genre": null
+    },
+    {
+      "id": 169,
+      "title": "50/50",
+      "year": 1986,
+      "rating": 7.9,
+      "director": "Gretchen Yuryichev",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Drama|War"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "title": "Darwin's Nightmare",
+      "year": 2006,
+      "rating": 5.1,
+      "director": "Sandie McCaskill",
+      "genre": []
+    },
+    {
+      "id": 171,
+      "title": "Little Colonel, The",
+      "year": 1937,
+      "rating": 5.4,
+      "director": "Al Mennear",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Fantasy|Horror"
+        },
+        {
+          "name": "Comedy|Musical"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "title": "Last Chance Harvey",
+      "year": 1996,
+      "rating": 3.4,
+      "director": "Kerianne Bareham",
+      "genre": [
+        {
+          "name": "Horror|Mystery|Thriller"
+        },
+        {
+          "name": "Comedy|Fantasy|Sci-Fi"
+        },
+        {
+          "name": "Action|Comedy|Crime"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "title": "Fun and Fancy Free",
+      "year": 1977,
+      "rating": 6.8,
+      "director": "Grantley O'Harney",
+      "genre": [
+        {
+          "name": "Mystery|Thriller"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "title": "Herod's Law (Ley de Herodes, La)",
+      "year": 1973,
+      "rating": 5.2,
+      "director": "Sheffield Bellows",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "title": "Messengers 2: The Scarecrow",
+      "year": 1924,
+      "rating": 7.8,
+      "director": "Balduin Fairn",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "title": "My Mother's Courage (Mutters Courage)",
+      "year": 1898,
+      "rating": 7.1,
+      "director": "Jemmie Norrington",
+      "genre": null
+    },
+    {
+      "id": 177,
+      "title": "Christmas Eve",
+      "year": 1921,
+      "rating": 5.8,
+      "director": "Karine Willoughby",
+      "genre": [
+        {
+          "name": "Western"
+        },
+        {
+          "name": "Action|Adventure"
+        },
+        {
+          "name": "Sci-Fi|Thriller|IMAX"
+        },
+        {
+          "name": "Comedy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "title": "First Deadly Sin, The",
+      "year": 1899,
+      "rating": 5.5,
+      "director": "Denyse Goligher",
+      "genre": null
+    },
+    {
+      "id": 179,
+      "title": "Laugh, Clown, Laugh",
+      "year": 1998,
+      "rating": 2.4,
+      "director": "Rudd Sijmons",
+      "genre": []
+    },
+    {
+      "id": 180,
+      "title": "Alfie",
+      "year": 1993,
+      "rating": 1.2,
+      "director": "Dannel Dumsday",
+      "genre": [
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Heldorado",
+      "year": 1980,
+      "rating": 1.5,
+      "director": "Merwyn Upham",
+      "genre": [
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "title": "The Photographer",
+      "year": 1987,
+      "rating": 6.9,
+      "director": "Pernell Swinley",
+      "genre": null
+    },
+    {
+      "id": 183,
+      "title": "Tabloid",
+      "year": 2011,
+      "rating": 4.1,
+      "director": "Townsend McIlmorie",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Night of the Running Man",
+      "year": 2001,
+      "rating": 2.5,
+      "director": "Morgana Prise",
+      "genre": null
+    },
+    {
+      "id": 185,
+      "title": "Celebrity",
+      "year": 1895,
+      "rating": 3.6,
+      "director": "Tallie Kellington",
+      "genre": [
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "title": "Silver Chalice, The",
+      "year": 1959,
+      "rating": 5.0,
+      "director": "Viviene Underdown",
+      "genre": [
+        {
+          "name": "Comedy|Musical"
+        },
+        {
+          "name": "Action"
+        },
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Fagbug",
+      "year": 1920,
+      "rating": 8.4,
+      "director": "Esme Fairburn",
+      "genre": [
+        {
+          "name": "Drama|Western"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "title": "Hannah Takes the Stairs",
+      "year": 1992,
+      "rating": 9.1,
+      "director": "Jerrilyn Blanchard",
+      "genre": []
+    },
+    {
+      "id": 189,
+      "title": "Tale of Two Sisters, A (Janghwa, Hongryeon)",
+      "year": 1896,
+      "rating": 2.1,
+      "director": "Thorstein Paynter",
+      "genre": null
+    },
+    {
+      "id": 190,
+      "title": "Bound",
+      "year": 1990,
+      "rating": 6.1,
+      "director": "Olia Augustine",
+      "genre": [
+        {
+          "name": "Crime|Drama|Musical"
+        },
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Drama|Horror|Mystery"
+        },
+        {
+          "name": "Action|Crime|Drama|Thriller"
+        },
+        {
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "title": "The Lumière Brothers' First Films",
+      "year": 1984,
+      "rating": 5.1,
+      "director": "Cointon Stather",
+      "genre": [
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "title": "Slaughter",
+      "year": 2018,
+      "rating": 4.3,
+      "director": "Lucio Lewington",
+      "genre": null
+    },
+    {
+      "id": 193,
+      "title": "Airplane II: The Sequel",
+      "year": 1908,
+      "rating": 3.9,
+      "director": "Vilma Boshier",
+      "genre": []
+    },
+    {
+      "id": 194,
+      "title": "Lola Versus",
+      "year": 2009,
+      "rating": 5.2,
+      "director": "Leilah Norval",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "title": "Camelot",
+      "year": 1992,
+      "rating": 8.1,
+      "director": "Elna Eskrick",
+      "genre": [
+        {
+          "name": "Comedy|Romance|Sci-Fi"
+        },
+        {
+          "name": "Action|Sci-Fi|Thriller"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "title": "Trans",
+      "year": 1966,
+      "rating": 1.9,
+      "director": "Port Georgescu",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "title": "Secret Things (Choses secrètes)",
+      "year": 1945,
+      "rating": 7.5,
+      "director": "Corrie Kitchingham",
+      "genre": []
+    },
+    {
+      "id": 198,
+      "title": "Mille bolle blu",
+      "year": 1977,
+      "rating": 9.6,
+      "director": "Merry Smyth",
+      "genre": [
+        {
+          "name": "Action|Comedy"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Sci-Fi"
+        },
+        {
+          "name": "Comedy|Romance|Sci-Fi"
+        },
+        {
+          "name": "Comedy|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "title": "Naan Kadavul",
+      "year": 1940,
+      "rating": 5.7,
+      "director": "Berti Conley",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Musical"
+        },
+        {
+          "name": "Documentary|War"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "title": "Zatoichi's Pilgrimage (Zatôichi umi o wataru) (Zatôichi 14)",
+      "year": 1971,
+      "rating": 8.4,
+      "director": "Emlynne Blackman",
+      "genre": [
+        {
+          "name": "Drama|Sci-Fi"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy|Horror"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "title": "Sorcerer and the White Snake, The (Bai she chuan shuo)",
+      "year": 1928,
+      "rating": 3.5,
+      "director": "Tori Kener",
+      "genre": [
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Comedy|Crime|Musical"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Action|Drama"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "Starsuckers",
+      "year": 1896,
+      "rating": 3.1,
+      "director": "Margaux Deppen",
+      "genre": [
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "title": "Three Kingdoms: Resurrection of the Dragon (Saam gwok dzi gin lung se gap)",
+      "year": 1984,
+      "rating": 9.5,
+      "director": "Cyrille McNevin",
+      "genre": null
+    },
+    {
+      "id": 204,
+      "title": "Euphoria (Eyforiya)",
+      "year": 2018,
+      "rating": 6.3,
+      "director": "Coretta Ellin",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Fantasy|Sci-Fi"
+        },
+        {
+          "name": "Adventure|Musical|Romance"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama|Romance|War"
+        },
+        {
+          "name": "Action"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "title": "Long Ride Home, The",
+      "year": 1991,
+      "rating": 4.6,
+      "director": "Janessa Medcraft",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "title": "Presence, The",
+      "year": 1922,
+      "rating": 4.4,
+      "director": "Maurizia Sowden",
+      "genre": null
+    },
+    {
+      "id": 207,
+      "title": "Hit and Runway",
+      "year": 1964,
+      "rating": 8.9,
+      "director": "Scarface Vassall",
+      "genre": [
+        {
+          "name": "Musical"
+        },
+        {
+          "name": "Comedy|Documentary"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Comedy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "title": "Breathless",
+      "year": 1995,
+      "rating": 8.3,
+      "director": "Zechariah Tremellan",
+      "genre": null
+    },
+    {
+      "id": 209,
+      "title": "Love",
+      "year": 2010,
+      "rating": 1.0,
+      "director": "Laurene Janeczek",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "title": "Exhibition",
+      "year": 1974,
+      "rating": 7.4,
+      "director": "Gilles McLagain",
+      "genre": [
+        {
+          "name": "Drama|Sci-Fi|Thriller"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "title": "Bingo",
+      "year": 1985,
+      "rating": 6.7,
+      "director": "Evita Bryer",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "title": "Day After, The",
+      "year": 1922,
+      "rating": 7.2,
+      "director": "Dominik Hurley",
+      "genre": [
+        {
+          "name": "Animation|Children|Fantasy|Romance"
+        },
+        {
+          "name": "Crime"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Crime|Film-Noir|Mystery|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "title": "Now, Voyager",
+      "year": 1999,
+      "rating": 4.0,
+      "director": "Maryellen Rivaland",
+      "genre": [
+        {
+          "name": "Children|Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "title": "Idiots, The (Idioterne)",
+      "year": 1967,
+      "rating": 1.7,
+      "director": "Marjie Philbrick",
+      "genre": null
+    },
+    {
+      "id": 215,
+      "title": "Absolute Giganten",
+      "year": 1980,
+      "rating": 5.2,
+      "director": "Meris Mulrean",
+      "genre": [
+        {
+          "name": "(no genres listed)"
+        },
+        {
+          "name": "Western"
+        },
+        {
+          "name": "Musical|Sci-Fi"
+        },
+        {
+          "name": "Western"
+        },
+        {
+          "name": "Comedy|Musical|Romance"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "title": "Wrestling for Jesus: The Tale of T-Money",
+      "year": 1904,
+      "rating": 1.9,
+      "director": "Murielle Uzielli",
+      "genre": null
+    },
+    {
+      "id": 217,
+      "title": "Diplomatic Siege",
+      "year": 1942,
+      "rating": 6.1,
+      "director": "Germaine Baldam",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Action|Adventure|Drama|Romance|War"
+        },
+        {
+          "name": "Action|Mystery|Thriller"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "title": "Another Cinderella Story",
+      "year": 1920,
+      "rating": 2.3,
+      "director": "Aline Dyerson",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Crime|Drama|Thriller"
+        },
+        {
+          "name": "Drama|Thriller|War"
+        },
+        {
+          "name": "Action|Drama"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "title": "Pride of the Yankees, The",
+      "year": 1951,
+      "rating": 8.7,
+      "director": "Haley Blaze",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy|Crime"
+        },
+        {
+          "name": "Comedy|Crime|Drama|Mystery|Thriller"
+        },
+        {
+          "name": "Adventure|Animation|Children"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "title": "Chipmunk Adventure, The",
+      "year": 1938,
+      "rating": 1.0,
+      "director": "Loralyn Adamini",
+      "genre": [
+        {
+          "name": "Action|Crime|Drama|IMAX"
+        },
+        {
+          "name": "Crime|Thriller"
+        },
+        {
+          "name": "Drama|Thriller"
+        },
+        {
+          "name": "Action|Adventure|Fantasy"
+        },
+        {
+          "name": "Action|Adventure|Drama|War"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "title": "Dead in the Water",
+      "year": 1983,
+      "rating": 1.4,
+      "director": "Brier Lippatt",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "title": "Shutter Island",
+      "year": 1915,
+      "rating": 3.8,
+      "director": "Lenard Sterricker",
+      "genre": null
+    },
+    {
+      "id": 223,
+      "title": "Only Old Men Are Going to Battle (V boy idut odni stariki)",
+      "year": 1998,
+      "rating": 1.3,
+      "director": "Gar Wittke",
+      "genre": [
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Western"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "title": "DiG!",
+      "year": 1895,
+      "rating": 6.7,
+      "director": "Stirling Erskin",
+      "genre": null
+    },
+    {
+      "id": 225,
+      "title": "Intimidation",
+      "year": 1969,
+      "rating": 4.2,
+      "director": "Florenza Critchlow",
+      "genre": null
+    },
+    {
+      "id": 226,
+      "title": "Urbania",
+      "year": 1991,
+      "rating": 2.9,
+      "director": "Ernestus Gonnely",
+      "genre": null
+    },
+    {
+      "id": 227,
+      "title": "Escaflowne: The Movie (Escaflowne)",
+      "year": 1945,
+      "rating": 9.3,
+      "director": "Anna De Witt",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "title": "Carry on Screaming!",
+      "year": 1934,
+      "rating": 6.3,
+      "director": "Yoko Lowry",
+      "genre": []
+    },
+    {
+      "id": 229,
+      "title": "Garfield Christmas Special, A",
+      "year": 1999,
+      "rating": 1.2,
+      "director": "Victor Bertolaccini",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "title": "Kumail Nanjiani: Beta Male ",
+      "year": 1923,
+      "rating": 5.6,
+      "director": "Douglass Warner",
+      "genre": null
+    },
+    {
+      "id": 231,
+      "title": "Beautiful Lies (De vrais mensonges) (Full Treatment)",
+      "year": 1979,
+      "rating": 2.4,
+      "director": "Cathy Eynon",
+      "genre": [
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Drama|War"
+        },
+        {
+          "name": "Crime|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "title": "Backcountry",
+      "year": 1972,
+      "rating": 5.0,
+      "director": "Louie Bartlam",
+      "genre": null
+    },
+    {
+      "id": 233,
+      "title": "Idiocracy",
+      "year": 1954,
+      "rating": 6.8,
+      "director": "Baron Pavis",
+      "genre": [
+        {
+          "name": "Action|Sci-Fi"
+        },
+        {
+          "name": "Animation|Children|Comedy|Crime"
+        },
+        {
+          "name": "Crime|Horror|Thriller"
+        },
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "title": "Up Close and Personal",
+      "year": 2018,
+      "rating": 1.8,
+      "director": "Grantley Malser",
+      "genre": null
+    },
+    {
+      "id": 235,
+      "title": "Detective Story",
+      "year": 1962,
+      "rating": 9.3,
+      "director": "Clio McKern",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "title": "Dirty Sanchez: The Movie",
+      "year": 1968,
+      "rating": 8.5,
+      "director": "Odette Kupke",
+      "genre": [
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "title": "It's the Great Pumpkin, Charlie Brown",
+      "year": 1961,
+      "rating": 7.5,
+      "director": "Maiga Stelfox",
+      "genre": [
+        {
+          "name": "Action|Adventure|Comedy|Romance"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Comedy|Romance"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "title": "23 (23 - Nichts ist so wie es scheint)",
+      "year": 1959,
+      "rating": 5.8,
+      "director": "Wendall Taudevin",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Horror"
+        },
+        {
+          "name": "Drama|Horror|Mystery|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "title": "My Giant",
+      "year": 1903,
+      "rating": 9.6,
+      "director": "Arlinda Caldeiro",
+      "genre": [
+        {
+          "name": "Adventure|Animation|Children|Comedy"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "title": "Expecting a Miracle",
+      "year": 1979,
+      "rating": 8.1,
+      "director": "Perry Verson",
+      "genre": [
+        {
+          "name": "Adventure|Comedy|Crime|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "title": "Miracle of Marcelino, The (Marcelino pan y vino)",
+      "year": 2019,
+      "rating": 2.3,
+      "director": "Barris Clamo",
+      "genre": null
+    },
+    {
+      "id": 242,
+      "title": "Intruder in the Dust",
+      "year": 1895,
+      "rating": 8.0,
+      "director": "Austen Wackett",
+      "genre": null
+    },
+    {
+      "id": 243,
+      "title": "Bullfighter and the Lady",
+      "year": 1893,
+      "rating": 9.6,
+      "director": "Lanie Snell",
+      "genre": null
+    },
+    {
+      "id": 244,
+      "title": "Paper, The",
+      "year": 1971,
+      "rating": 9.6,
+      "director": "Katy Taft",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Animation"
+        },
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Drama|Sci-Fi|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "title": "Tetro",
+      "year": 1945,
+      "rating": 3.3,
+      "director": "Leann Manders",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "title": "Gypsy 83",
+      "year": 1977,
+      "rating": 4.9,
+      "director": "Rozella Woodings",
+      "genre": [
+        {
+          "name": "Adventure|Children|Fantasy"
+        },
+        {
+          "name": "Crime|Mystery|Thriller"
+        },
+        {
+          "name": "Comedy"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "title": "Homevideo",
+      "year": 2022,
+      "rating": 1.9,
+      "director": "Jermayne Spilstead",
+      "genre": null
+    },
+    {
+      "id": 248,
+      "title": "Vessel of Wrath",
+      "year": 2009,
+      "rating": 6.8,
+      "director": "Kean Hargerie",
+      "genre": [
+        {
+          "name": "Horror|Mystery|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "title": "City on Fire (Lung fu fong wan)",
+      "year": 2023,
+      "rating": 6.3,
+      "director": "Tabby Dyka",
+      "genre": [
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Crime|Mystery"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Action"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "title": "I'm All Right Jack",
+      "year": 1967,
+      "rating": 7.3,
+      "director": "Agace Baggalley",
+      "genre": [
+        {
+          "name": "Action|Adventure|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "title": "After the Wedding (Efter brylluppet)",
+      "year": 1925,
+      "rating": 9.5,
+      "director": "Mirelle Bohler",
+      "genre": null
+    },
+    {
+      "id": 252,
+      "title": "Legend of the Lone Ranger, The",
+      "year": 2010,
+      "rating": 6.0,
+      "director": "Ricky Andrault",
+      "genre": null
+    },
+    {
+      "id": 253,
+      "title": "Urusei Yatsura Movie 2: Beautiful Dreamer (Urusei Yatsura 2: Byûtifuru dorîmâ)",
+      "year": 1967,
+      "rating": 3.3,
+      "director": "Karina Toten",
+      "genre": [
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "title": "She's Having a Baby",
+      "year": 2021,
+      "rating": 8.2,
+      "director": "Theo Steggles",
+      "genre": []
+    },
+    {
+      "id": 255,
+      "title": "Deadfall",
+      "year": 1977,
+      "rating": 9.9,
+      "director": "Burk Honig",
+      "genre": []
+    },
+    {
+      "id": 256,
+      "title": "Dead Outside, The",
+      "year": 1997,
+      "rating": 8.1,
+      "director": "Lusa Mundford",
+      "genre": [
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Action|Drama"
+        },
+        {
+          "name": "Action"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "title": "Creature from the Haunted Sea",
+      "year": 1906,
+      "rating": 3.8,
+      "director": "Claudio Phizackerly",
+      "genre": [
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Animation|Children|Fantasy"
+        },
+        {
+          "name": "Adventure|Comedy|Fantasy"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "title": "Hunter, The",
+      "year": 1894,
+      "rating": 8.3,
+      "director": "Micheil Trevethan",
+      "genre": [
+        {
+          "name": "Western"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "title": "Sea Hawk, The",
+      "year": 1937,
+      "rating": 6.6,
+      "director": "Giffie Tetley",
+      "genre": null
+    },
+    {
+      "id": 260,
+      "title": "Big Man Japan (Dai-Nihonjin)",
+      "year": 2016,
+      "rating": 5.2,
+      "director": "Tabbatha Conklin",
+      "genre": null
+    },
+    {
+      "id": 261,
+      "title": "Satan's Sword (Daibosatsu tôge)",
+      "year": 1949,
+      "rating": 8.0,
+      "director": "Whitaker Cutchey",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Action|Comedy"
+        },
+        {
+          "name": "Action|Crime|Drama"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "title": "Pleasure at Her Majesty's",
+      "year": 1897,
+      "rating": 8.9,
+      "director": "Julee Mytton",
+      "genre": null
+    },
+    {
+      "id": 263,
+      "title": "Aliens in the Attic",
+      "year": 1986,
+      "rating": 3.7,
+      "director": "Libby Whitelock",
+      "genre": null
+    },
+    {
+      "id": 264,
+      "title": "Varan the Unbelievable",
+      "year": 1921,
+      "rating": 3.3,
+      "director": "Dare Wybourne",
+      "genre": [
+        {
+          "name": "Adventure|Fantasy"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "title": "Take the Lead",
+      "year": 1941,
+      "rating": 8.6,
+      "director": "Dario Piffe",
+      "genre": []
+    },
+    {
+      "id": 266,
+      "title": "The Boss",
+      "year": 1988,
+      "rating": 5.8,
+      "director": "Florian Del Castello",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Romance"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "title": "Jaws 2",
+      "year": 1931,
+      "rating": 3.7,
+      "director": "Alasdair Shearmer",
+      "genre": [
+        {
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "title": "Cesar & Rosalie (César et Rosalie)",
+      "year": 1925,
+      "rating": 7.2,
+      "director": "Rafael Shiril",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Horror|Thriller"
+        },
+        {
+          "name": "Comedy|Horror|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "title": "Beauty Prize",
+      "year": 1964,
+      "rating": 9.3,
+      "director": "Agneta Perot",
+      "genre": [
+        {
+          "name": "Comedy|Horror|Romance"
+        },
+        {
+          "name": "Horror"
+        },
+        {
+          "name": "Action|Adventure|Drama|Romance|Western"
+        },
+        {
+          "name": "Crime|Drama"
+        },
+        {
+          "name": "Adventure|War"
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "title": "Sheepman, The",
+      "year": 1905,
+      "rating": 9.3,
+      "director": "Gilles Edes",
+      "genre": null
+    },
+    {
+      "id": 271,
+      "title": "Planet of the Apes",
+      "year": 1958,
+      "rating": 5.9,
+      "director": "Asia Ashburne",
+      "genre": [
+        {
+          "name": "Crime"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Mystery"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "title": "Crooklyn",
+      "year": 1923,
+      "rating": 6.9,
+      "director": "Jessee Belhome",
+      "genre": [
+        {
+          "name": "Drama|Fantasy|Romance"
+        },
+        {
+          "name": "Drama|Romance"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy|Horror"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "title": "Madonna of the Seven Moons",
+      "year": 1947,
+      "rating": 7.4,
+      "director": "Angie Starkey",
+      "genre": null
+    },
+    {
+      "id": 274,
+      "title": "Burt's Buzz",
+      "year": 1975,
+      "rating": 7.1,
+      "director": "Hilda Kobierski",
+      "genre": [
+        {
+          "name": "Drama|Musical"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "title": "Live and Become (Va, vis et deviens)",
+      "year": 1994,
+      "rating": 3.4,
+      "director": "Shandeigh Bartoszewski",
+      "genre": [
+        {
+          "name": "Action|Comedy|Thriller"
+        },
+        {
+          "name": "Comedy|Drama"
+        },
+        {
+          "name": "Action|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "title": "Monster",
+      "year": 1971,
+      "rating": 6.0,
+      "director": "Alan Wilce",
+      "genre": null
+    },
+    {
+      "id": 277,
+      "title": "Mikra Anglia",
+      "year": 1965,
+      "rating": 4.0,
+      "director": "Allin Caves",
+      "genre": []
+    },
+    {
+      "id": 278,
+      "title": "Arthur 2: On the Rocks",
+      "year": 1946,
+      "rating": 4.6,
+      "director": "Josee Sutcliff",
+      "genre": [
+        {
+          "name": "Documentary|Musical"
+        },
+        {
+          "name": "Documentary|Horror|War"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Drama|War"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "title": "Petting Zoo",
+      "year": 1944,
+      "rating": 6.9,
+      "director": "Joey Hourigan",
+      "genre": null
+    },
+    {
+      "id": 280,
+      "title": "Client, The",
+      "year": 1942,
+      "rating": 8.2,
+      "director": "Gustaf Kemson",
+      "genre": []
+    },
+    {
+      "id": 281,
+      "title": "Somebody Up There Likes Me",
+      "year": 1992,
+      "rating": 9.3,
+      "director": "Kingsley Clearie",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Drama|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "title": "Ghoulies III: Ghoulies Go to College",
+      "year": 1954,
+      "rating": 4.8,
+      "director": "Martie Jermyn",
+      "genre": null
+    },
+    {
+      "id": 283,
+      "title": "Double, The",
+      "year": 1984,
+      "rating": 6.9,
+      "director": "Lanita Jailler",
+      "genre": null
+    },
+    {
+      "id": 284,
+      "title": "Outland",
+      "year": 1979,
+      "rating": 1.4,
+      "director": "Trumaine Feaveryear",
+      "genre": null
+    },
+    {
+      "id": 285,
+      "title": "The Hire: Star, The",
+      "year": 1967,
+      "rating": 6.2,
+      "director": "Trudy Goodreid",
+      "genre": [
+        {
+          "name": "Crime|Drama"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Drama|War"
+        },
+        {
+          "name": "Action|Comedy|Romance"
+        },
+        {
+          "name": "Drama|Romance"
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "title": "The End of the Tour",
+      "year": 1980,
+      "rating": 9.3,
+      "director": "Gerik Levicount",
+      "genre": [
+        {
+          "name": "Adventure|Animation|Children|Drama|Musical"
+        },
+        {
+          "name": "Comedy|Documentary"
+        },
+        {
+          "name": "Children|Comedy|Romance"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "title": "Val Lewton:  The Man in the Shadows",
+      "year": 1990,
+      "rating": 4.4,
+      "director": "Tobias Keywood",
+      "genre": [
+        {
+          "name": "Action|Drama|Thriller"
+        },
+        {
+          "name": "Crime|Drama|Mystery"
+        },
+        {
+          "name": "Crime|Drama"
+        },
+        {
+          "name": "Crime|Drama"
+        },
+        {
+          "name": "Horror|Sci-Fi|Thriller"
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "title": "Hobbit, The",
+      "year": 1895,
+      "rating": 9.0,
+      "director": "Omero Goodfield",
+      "genre": [
+        {
+          "name": "Action|Adventure|Drama|Sci-Fi"
+        },
+        {
+          "name": "(no genres listed)"
+        },
+        {
+          "name": "Documentary"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "title": "Head-On (Gegen die Wand)",
+      "year": 2005,
+      "rating": 4.1,
+      "director": "Shelia Lock",
+      "genre": null
+    },
+    {
+      "id": 290,
+      "title": "City Dark, The",
+      "year": 1927,
+      "rating": 9.8,
+      "director": "Lilla McCormick",
+      "genre": [
+        {
+          "name": "Horror|Sci-Fi"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "title": "Last Castle, The",
+      "year": 1955,
+      "rating": 5.7,
+      "director": "Kippie Vlasenko",
+      "genre": [
+        {
+          "name": "Action|Horror"
+        },
+        {
+          "name": "Drama"
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "title": "Faces of Death: Fact or Fiction?",
+      "year": 1898,
+      "rating": 6.7,
+      "director": "Marnie Cradey",
+      "genre": null
+    },
+    {
+      "id": 293,
+      "title": "Raiders of the Lost Ark: The Adaptation",
+      "year": 1962,
+      "rating": 3.1,
+      "director": "Babara Emanuele",
+      "genre": null
+    },
+    {
+      "id": 294,
+      "title": "Kummeli Alivuokralainen",
+      "year": 1909,
+      "rating": 7.9,
+      "director": "Burt Haig",
+      "genre": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy|Drama|Romance"
+        },
+        {
+          "name": "Crime|Drama|Thriller"
+        },
+        {
+          "name": "Action|Drama|War"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "title": "Long Good Friday, The",
+      "year": 1919,
+      "rating": 2.3,
+      "director": "Catina Bunn",
+      "genre": null
+    },
+    {
+      "id": 296,
+      "title": "Woman Who Wasn't There, The",
+      "year": 1926,
+      "rating": 1.1,
+      "director": "Gideon Freire",
+      "genre": null
+    },
+    {
+      "id": 297,
+      "title": "Thunderbirds Are GO",
+      "year": 1950,
+      "rating": 9.9,
+      "director": "Deva Brimblecomb",
+      "genre": null
+    },
+    {
+      "id": 298,
+      "title": "Crossroads",
+      "year": 1980,
+      "rating": 5.0,
+      "director": "Eugenius Nason",
+      "genre": [
+        {
+          "name": "Horror"
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "title": "Into Great Silence (Die große Stille)",
+      "year": 1914,
+      "rating": 8.4,
+      "director": "Berrie Dimitrescu",
+      "genre": [
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy|Romance"
+        },
+        {
+          "name": "Drama|Fantasy|War"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Comedy|Drama"
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "title": "Baby... Secret of the Lost Legend",
+      "year": 1962,
+      "rating": 7.2,
+      "director": "Stanleigh Brophy",
+      "genre": [
+        {
+          "name": "Drama"
+        }
+      ]
+    }
+  ]
+}
